@@ -1,2 +1,2 @@
 # Tabuada
- Uma tabuada, criada utilizando Javascript
+ Uma tabuada, criada utilizando Javascript.
